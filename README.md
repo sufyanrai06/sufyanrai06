@@ -6,25 +6,34 @@
 
 
 <!-- ========================= GITHUB PROFILE ========================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sufyanrai06&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="sufyanrai06" />
+</p>
+<div align="center">
+
+<!-- ========================= CONNECT + PROFILE VIEWS ========================= -->
 
 <div align="center">
 
-## 🌐 Connect With Me
+## 🌐 Portfolio + GitHub
 
-<a href="https://github.com/sufyanrai06" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://project-nine-nu-84.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://github.com/sufyanrai06" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-sufyanrai06-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://project-nine-nu-84.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Now-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<br><br>
 
-💻 Explore my repositories, featured projects, and development work on  
-### **[GitHub → @sufyanrai06](https://github.com/sufyanrai06)**
 
+<p align="center">
+  Explore my repositories, featured projects, and web development work through my GitHub profile and live portfolio.
+</p>
 </div>
+<!-- ========================= END CONNECT + PROFILE VIEWS ========================= -->
 <!-- ========================= FEATURED PROJECTS ========================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -32,44 +41,11 @@
   A curated collection of my best web projects, showcasing modern UI design, practical functionality, and interactive user experiences.
 </p>
 
-<br>
-
 <!-- ========================= HERO PROJECT ========================= -->
 
 <div align="center">
-
-## 🌟 Portfolio — Featured Project
-
-<a href="https://project-nine-nu-84.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🔗%20Live%20Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://project-nine-nu-84.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/✨%20Personal%20Branding-2563EB?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://project-nine-nu-84.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/💼%20Featured%20Work-9333EA?style=for-the-badge" />
-</a>
-
-<br><br>
-
 <table>
-<tr>
-<td align="center" width="100%">
 
-### 🖥️ My Portfolio
-A modern personal portfolio website designed to present my **projects, skills, and development work** in a clean, professional, and visually polished way.  
-It serves as the central hub of my work, highlighting my frontend creativity, practical projects, and overall web development journey.
-
-<br>
-
-<a href="https://project-nine-nu-84.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Live-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</td>
-</tr>
 </table>
 
 </div>
@@ -219,13 +195,7 @@ Designed with a **clean interface and practical workflow experience**.
 </div>
 
 <!-- ========================= END FEATURED PROJECTS ========================= -->
-- 📫 How to reach me **sufyanrai06@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/raiabusufyan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raiabusufyan11" height="30" width="40" /></a>
-<a href="https://instagram.com/raisufyan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raisufyan__" height="30" width="40" /></a>
-</p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
@@ -237,3 +207,34 @@ Designed with a **clean interface and practical workflow experience**.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sufyanrai06&show_icons=true&locale=en" alt="sufyanrai06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufyanrai06&" alt="sufyanrai06" /></p>
+<!-- ========================= SOCIAL MEDIA ========================= -->
+
+<div align="center">
+
+## 🌍 Social Media & Contact
+
+<p align="center">
+  <a href="https://facebook.com/raiabusufyan11" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-raiabusufyan11-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/raisufyan__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-raisufyan__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:sufyanrai06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sufyanrai06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Discord-sufyanrai__19398-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</p>
+
+<p align="center">
+  Feel free to connect with me for collaboration, project discussions, or creative ideas.
+</p>
+
+</div>
+
+<!-- ========================= END SOCIAL MEDIA ========================= -->
