@@ -8,14 +8,220 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufyanrai06" alt="sufyanrai06" /></a> </p>
 
-- 🔭 I’m currently working on [Weather](https://sufyanrai06.github.io/Weather-/)
+<!-- ========================= GITHUB PROFILE ========================= -->
 
-- 👯 I’m looking to collaborate on [e-commerce](https://project20-gilt.vercel.app/)
+<div align="center">
 
-- 🤝 I’m looking for help with [pindiasan](https://pindiasancom.vercel.app/)
+## 🌐 Connect With Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/sufyanrai06](https://github.com/sufyanrai06)
+<a href="https://github.com/sufyanrai06" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://project-nine-nu-84.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
+<br><br>
+
+💻 Explore my repositories, featured projects, and development work on  
+### **[GitHub → @sufyanrai06](https://github.com/sufyanrai06)**
+
+</div>
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  A curated collection of my best web projects, showcasing modern UI design, practical functionality, and interactive user experiences.
+</p>
+
+<br>
+
+<!-- ========================= HERO PROJECT ========================= -->
+
+<div align="center">
+
+## 🌟 Portfolio — Featured Project
+
+<a href="https://project-nine-nu-84.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🔗%20Live%20Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://project-nine-nu-84.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/✨%20Personal%20Branding-2563EB?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://project-nine-nu-84.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/💼%20Featured%20Work-9333EA?style=for-the-badge" />
+</a>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🖥️ My Portfolio
+A modern personal portfolio website designed to present my **projects, skills, and development work** in a clean, professional, and visually polished way.  
+It serves as the central hub of my work, highlighting my frontend creativity, practical projects, and overall web development journey.
+
+<br>
+
+<a href="https://project-nine-nu-84.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Live-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ========================= PROJECT GRID ========================= -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🏙️ Pindiasan
+
+A location-focused web project built with a modern layout and a user-friendly structure.  
+Designed to present information in a **clear, engaging, and visually accessible** format.
+
+<br>
+
+<a href="https://pindiasancom.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://pindiasancom.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Modern%20UI-0EA5E9?style=for-the-badge" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+## 🛒 E-Commerce Store
+
+A responsive e-commerce web application with a clean shopping experience, product-focused layout, and modern UI structure.  
+Built to deliver a **smooth browsing and storefront experience**.
+
+<br>
+
+<a href="https://project20-gilt.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Store-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://project20-gilt.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/E--Commerce-F97316?style=for-the-badge" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🤖 AI Assistant
+
+An AI-powered assistant interface built for **interactive conversations, smart responses, and a modern chat experience**.  
+Focused on clean UI design and practical AI-based interaction flow.
+
+<br>
+
+<a href="https://ai-assistant-nine-jet.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20App-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://ai-assistant-nine-jet.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/AI%20Project-8B5CF6?style=for-the-badge" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+## 🧮 Modern Calculator
+
+A sleek and responsive calculator application featuring a modern design, intuitive layout, and smooth interaction for everyday use.  
+Built with a focus on **simplicity, clarity, and polished UI**.
+
+<br>
+
+<a href="https://modren-calculator-zeta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Try%20Calculator-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://modren-calculator-zeta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Utility%20App-22C55E?style=for-the-badge" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🌦️ Weather Checker Website
+
+A real-time weather web app designed to display weather details in a simple, visually appealing, and responsive interface.  
+Focused on **usability, clarity, and a clean dashboard experience**.
+
+<br>
+
+<a href="https://weather-pearl-delta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Check%20Weather-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://weather-pearl-delta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Weather%20App-3B82F6?style=for-the-badge" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+## 📋 Task Management
+
+A productivity-focused task management web app built to help users organize, track, and manage tasks efficiently.  
+Designed with a **clean interface and practical workflow experience**.
+
+<br>
+
+<a href="https://task-managment-seven-zeta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Manage%20Tasks-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://task-managment-seven-zeta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Productivity-F59E0B?style=for-the-badge" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ========================= EXTRA FEATURE CARD ========================= -->
+
+<div align="center">
+
+## ✨ Project Highlights
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <strong>🎨 Modern UI</strong><br>
+  Clean layouts, polished components, and responsive interfaces.
+</td>
+<td align="center" width="33%">
+  <strong>⚡ Practical Projects</strong><br>
+  Real-world inspired applications focused on usability and interaction.
+</td>
+<td align="center" width="33%">
+  <strong>🚀 Continuous Growth</strong><br>
+  Constantly building, improving, and experimenting with new ideas.
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- ========================= END FEATURED PROJECTS ========================= -->
 - 📫 How to reach me **sufyanrai06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
